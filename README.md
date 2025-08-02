@@ -11,3 +11,8 @@ Aspiring computer scientist and purpose-driven leader dedicated to advancing equ
 - 📫 Reach me: oamarachi224@gmail.com | https://www.linkedin.com/in/amarachi-osaji/
 - ⚡ Fun fact: I am a huge Hamilton fan! 🎭
 
+
+- 💬 Languages: Java, Python, MATLAB
+- ⛪️ Frameworks: scikit-learn, React
+- 📚 Libraries: Pandas, NumPy, Node.js
+
