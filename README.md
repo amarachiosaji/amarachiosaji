@@ -1,4 +1,4 @@
-## Hi, I'm Amarachi!👋
+## Amarachi Osaji | Aspiring Leader and Computer Scientist
 
 <!--
 **theyalllove-saj/theyalllove-saj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
